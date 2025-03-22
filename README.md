@@ -15,7 +15,7 @@ I hold a Master’s Degree in Data Science and Statistics from Graphic Era Hill 
 • **Languages**: C++, Python, SQL  
 • **Data Manipulation**: Pandas, NumPy, Matplotlib, Seaborn,Power Query, Conditional Formatting, Pivot Tables, DAX  
 • **Databases**: MySQL, SQL Server, Postgres SQL, Mongo DB  
-• **Tools**: Power BI, Tableau, Advance Excel, Jupyter Notebooks
+• **Tools**: Power BI, Tableau, Advance Excel, Jupyter Notebooks  
 • **Cloud Platforms**: Amazon Web Services, Google BigQuery
 
 ## Stats
