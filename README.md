@@ -16,7 +16,7 @@ I hold a Master’s Degree in Data Science and Statistics from Graphic Era Hill 
 • **Data Manipulation**: Pandas, NumPy, Matplotlib, Seaborn,Power Query, Conditional Formatting, Pivot Tables, DAX  
 • **Databases**: MySQL, SQL Server, Postgres SQL, Mongo DB  
 • **Tools**: Power BI, Tableau, Advance Excel, Jupyter Notebooks  
-• **Cloud Platforms**: Amazon Web Services, Google BigQuery
+• **Cloud Platforms**: AWS & GCP
 
 ## Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=AkshayJoshi10&theme=transparent&hide_border=false)<br/>
