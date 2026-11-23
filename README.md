@@ -25,3 +25,9 @@ I specialize in data validation, automation, statistical analysis, and interacti
 | **Cloud** | Databricks |
 
 ---
+### Fun Facts
+
+- I have a Dog.
+- I don't like Eating Outside
+- Demon Slayer and Pokemon are my favourite anime.
+- I love to play Football.
