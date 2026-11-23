@@ -3,7 +3,7 @@
 Data & BI Analyst obsessed with turning raw data into meaningful solutions.
 
 - 💼 Analyst at **VisualURL** | Ex Analytics Intern at **Insignia Consultancy Solutions** 
-- 🎓 M.Sc. Computer Science — *Graphic Era Hill University*
+- 🎓 M.Sc. Computer Science
 - 🌱 Currently exploring **Analytics Engineering**
 - 📫 Reach me at **[akshayjoshi2905@gmail.com](mailto:akshayjoshi2905@gmail.com)** or connect on **[LinkedIn](https://linkedin.com/in/akkijoshi)**
 
@@ -25,6 +25,3 @@ I specialize in data validation, automation, statistical analysis, and interacti
 | **Cloud** | Databricks |
 
 ---
-
-### GitHub Activity
-[![Akshay's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AkshayJoshi10&theme=transparent&hide_border=true)](https://git.io/streak-stats)
