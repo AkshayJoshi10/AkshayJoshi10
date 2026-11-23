@@ -2,9 +2,9 @@
 
 Data & BI Analyst obsessed with turning raw data into meaningful solutions.
 
-- 💼 Analyst at **VisualURL**
-- 🎓 M.Sc. in Data Science & Statistics — *Graphic Era Hill University*
-- 🌱 Currently exploring **Big Data, Machine Learning & Deep Learning**
+- 💼 Analyst at **VisualURL** | Ex Analytics Intern at **Insignia Consultancy Solutions** 
+- 🎓 M.Sc. Computer Science — *Graphic Era Hill University*
+- 🌱 Currently exploring **Analytics Engineering**
 - 📫 Reach me at **[akshayjoshi2905@gmail.com](mailto:akshayjoshi2905@gmail.com)** or connect on **[LinkedIn](https://linkedin.com/in/akkijoshi)**
 
 ---
@@ -18,11 +18,11 @@ I specialize in data validation, automation, statistical analysis, and interacti
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | SQL, Python, C++ |
+| **Languages** | SQL, Python |
 | **Data & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Power Query, DAX, Pivot Tables |
-| **Databases** | SQL Server, MySQL, PostgreSQL, MongoDB |
+| **Databases** | RDBMS's |
 | **BI & Visualization** | Power BI, Tableau, Advanced Excel, Jupyter Notebooks |
-| **Cloud** | AWS, GCP |
+| **Cloud** | Databricks |
 
 ---
 
