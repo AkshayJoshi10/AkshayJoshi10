@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Akshay !  
 
+👩🏻‍💻 Analyst at VisualURL    
 👩🏻‍💻 M.Sc. Computer Science  
 👩🏻‍🎓 Studied Data Science and Statistics at Graphic Era Hill University, Dehradun, India  
 💭 Currently learning about Big Data , Machine and Deep Learning !  <br>
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayJoshi10&show_icons=true&theme=transparent)
 
 ## About Me  
 As a passionate Data Enthusiast, I leverage SQL, Python, Microsoft Excel, Machine Learning, Statistics, and Power BI to drive data validation, analysis, automation, and visualization.
