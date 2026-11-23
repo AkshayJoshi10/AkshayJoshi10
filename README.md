@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay !  
 
-👩🏻‍💻 Data Science Graduate  
+👩🏻‍💻 M.Sc. Computer Science  
 👩🏻‍🎓 Studied Data Science and Statistics at Graphic Era Hill University, Dehradun, India  
 💭 Currently learning about Big Data , Machine and Deep Learning !  <br>
 
